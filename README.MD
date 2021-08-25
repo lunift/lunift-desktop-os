@@ -3,8 +3,5 @@
 # Tools
 <hr/>
 
-### QEMU
-I used QEMU to test the OS
-
-### Docker
-Docker is used for software so that is used as well.
+# OSDEV
+I used <a href="https://wiki.osdev.org/Main_Page">OSDEV</a> for help with creating the entire OS
